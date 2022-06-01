@@ -41,6 +41,7 @@ public class Adapter_applyjob extends RecyclerView.Adapter<Adapter_applyjob.View
         return vh;
     }
 
+
     @Override
     public void onBindViewHolder(@NonNull Adapter_applyjob.ViewHolder holder, int position) {
         Context context = holder.itemView.getContext();
