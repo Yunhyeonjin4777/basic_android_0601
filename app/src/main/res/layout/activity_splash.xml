@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#fff"
+    tools:context=".SplashActivity">
+
+
+    <ImageView
+        android:id="@+id/iv_logo"
+        android:layout_width="170dp"
+        android:layout_height="170dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="200dp"
+        android:src="@drawable/ic_logo" />
+
+    <TextView
+        android:id="@+id/tv_title1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv_logo"
+        android:layout_marginLeft="85dp"
+        android:fontFamily="@font/nanumgothicextrabold"
+        android:text="Farm"
+        android:textColor="#40bcb4"
+        android:textSize="45dp" />
+
+    <TextView
+        android:id="@+id/tv_title2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv_logo"
+        android:layout_toRightOf="@+id/tv_title1"
+        android:fontFamily="@font/nanumgothicextrabold"
+        android:text="구인"
+        android:textColor="#3b3838"
+        android:textSize="45dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="50dp"
+        android:text="오늘도 팜구인하세요!"
+        android:textColor="#818181"
+        android:fontFamily="@font/nanumsquarer"
+        />
+
+
+</RelativeLayout>

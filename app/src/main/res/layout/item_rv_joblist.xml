@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="130dp"
+    android:background="@drawable/rounded_corner_joblist"
+    android:elevation="2dp"
+    android:layout_margin="3dp"
+    android:padding="18dp"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/iv_photo"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:background="@drawable/rounded_corner_photo" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="3"
+        android:background="#00FFFFFF"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#00FFFFFF"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="4"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="#00FFFFFF"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:text="TextView"
+                    android:textColor="#000000"
+                    android:textSize="20dp" />
+                <TextView
+                    android:id="@+id/tv_cropinfo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:paddingLeft="10dp"
+                    android:text="채소, 마늘, 파종"
+                    android:textSize="12dp"
+                    android:textColor="#9F9F9F"
+                    android:layout_marginTop="5dp"
+                    />
+
+                <TextView
+                    android:id="@+id/tv_address"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:paddingLeft="10dp"
+                    android:text="경기 평택시\n"
+                    android:textSize="12dp"
+                    android:textColor="#777777"
+                    android:layout_marginTop="5dp"
+                    />
+
+                <TextView
+                    android:id="@+id/tv_pay"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="#FFAC1E"
+                    android:paddingLeft="10dp"
+                    android:textSize="20dp"
+                    android:text="150,000"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/but_view"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:background="@drawable/rounded_corner_detail"
+        android:layout_gravity="center"
+        android:text="상세보기"
+        android:textSize="13sp"
+        android:textStyle="bold"
+        android:textColor="#d96415"
+        />
+</LinearLayout>
+
+
+

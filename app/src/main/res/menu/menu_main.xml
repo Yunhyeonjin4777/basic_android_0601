@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_mylist"
+        android:title="이용내역"
+        android:icon="@drawable/ic_note"/>
+
+    <item
+        android:id="@+id/item_notice"
+        android:title="알림"
+        android:icon="@drawable/ic_notifications"/>
+
+    <item
+        android:id="@+id/item_jobOfferermenu"
+        android:title="메뉴"
+        android:icon="@drawable/ic_menu"/>
+
+</menu>

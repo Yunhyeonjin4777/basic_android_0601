@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/drawable-v24/ic_baseline_arrow_back_ios_24.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/drawable/gradation.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/drawable/gradation_login.xml" value="0.2064814814814815" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/drawable/ic_arrow.xml" value="0.1259259259259259" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/drawable/ic_arrow_back.xml" value="0.1259259259259259" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/drawable/ic_arrow_forward.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/drawable/menu_selector_color.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/drawable/rounded22_button.xml" value="0.20555555555555555" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/drawable/rounded_button.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/drawable/rounded_button_grid.xml" value="0.12777777777777777" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/drawable/rounded_button_white.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/drawable/rounded_corner.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/drawable/rounded_corner_add.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/drawable/rounded_corner_detail.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/drawable/rounded_corner_joblist.xml" value="0.19814814814814816" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/drawable/rounded_corner_photo.xml" value="0.22407407407407406" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/font/font.xml" value="0.2838541666666667" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/CancelPopup.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_.xml" value="0.25" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_applyview.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_choice.xml" value="0.264" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_detailview.xml" value="0.18779342723004694" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_detailview2.xml" value="0.264" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_googlemap.xml" value="0.1" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_jobseeker.xml" value="0.2" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_jobwrite.xml" value="0.2" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_jobwrite2.xml" value="0.264" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_jobwrite3.xml" value="0.264" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_join.xml" value="0.25" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_join2.xml" value="0.264" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_join3.xml" value="0.264" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_joinjobseeker.xml" value="0.20516304347826086" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_joinjobseeker2.xml" value="0.13627152988855115" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_login2.xml" value="0.15760869565217392" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_loginjobseeker.xml" value="0.264" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_loginjobseeker1.xml" value="0.12590579710144928" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_map.xml" value="0.2025862068965517" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_map2.xml" value="0.264" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/activity_viewpager.xml" value="0.1" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/cancelpopup.xml" value="0.23324275362318841" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/fragment_applyjob.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/fragment_detailview.xml" value="0.264" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/fragment_joblist.xml" value="0.176" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/fragment_joblist2.xml" value="0.176" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/fragment_jobofferermenu.xml" value="0.2" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/fragment_jobofferermenu2.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/fragment_joboffermenu.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/fragment_jobseekermenu.xml" value="0.2" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/fragment_jobseekermenu2.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/fragment_jobwrite.xml" value="0.264" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/fragment_mylist.xml" value="0.2" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/fragment_notice.xml" value="0.16" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/item_grid_notice.xml" value="0.4" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/item_re.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/item_rv_apply.xml" value="0.264" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/item_rv_joblist.xml" value="0.264" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/item_rv_mylist.xml" value="0.264" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/item_rv_mylist2.xml" value="0.16" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/item_viewpager.xml" value="0.1" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/testmap.xml" value="0.15648148148148147" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/layout/view_gallery.xml" value="0.176" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/menu/menu_jobseeker.xml" value="0.1" />
+        <entry key="..\:/Users/yhj97/AndroidStudioProjects/v3/app/src/main/res/menu/menu_main.xml" value="0.20185185185185187" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
